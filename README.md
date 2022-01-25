@@ -4,9 +4,8 @@
 ![logo](https://user-images.githubusercontent.com/40122521/113417988-3fa09780-93cd-11eb-8e69-2a166145a5d6.png)
 
 
-**Description**: Shlifim is the project our group will work on during the course.
-The project will be forum based web application for helping students find answers
-to their homework and assignments and also share summaries.
+**Description**:A forum based web application for helping students find answers
+to their homework and assignments.
 
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/beyond-io/shlifim.svg)](https://github.com/beyond-io/shlifim/pulls)
 [![GitHub issues](https://img.shields.io/github/issues/beyond-io/shlifim.svg)](https://GitHub.com/beyond-io/shlifim/issues/)
